@@ -200,7 +200,7 @@ body {
 
   .sec_boxes {
     position: relative;
-    top: -10%;
+    /* top: -10%; */
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
@@ -386,7 +386,7 @@ body {
 
   .final_boxes {
     position: relative;
-    top: -15%;
+    /* top: -15%; */
     display: grid;
     grid-template-columns: 4fr 4fr 4fr;
     gap: 1.5rem;
